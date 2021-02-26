@@ -22,7 +22,7 @@
 
 ## 인원
 
-김태경, 윤진형
+[김태경](https://github.com/cokeworld), [윤진형](https://github.com/yunjinhyeong)
 
 ## 스터디 회의 활동사항
 
