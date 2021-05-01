@@ -32,7 +32,7 @@
 
 1. 매주 1개 챕터를 공부하고, 연습문제를 푼다.
 2. 공부한 내용을 정리한 글을 개인 블로그에 남긴다.
-3. 공동 깃헙 저장소에 기록을 남긴다.
+3. [공동 깃헙 저장소](https://github.com/study-data-structure/study-data-structure/issues?q=is%3Aissue+is%3Aclosed)에 기록을 남긴다.
 
 ## 벌금기준
 
